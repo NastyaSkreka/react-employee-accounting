@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-employee-accounting/static/css/main.e18eaf48.css",
+    "main.js": "/react-employee-accounting/static/js/main.a598f50e.js",
+    "index.html": "/react-employee-accounting/index.html",
+    "main.e18eaf48.css.map": "/react-employee-accounting/static/css/main.e18eaf48.css.map",
+    "main.a598f50e.js.map": "/react-employee-accounting/static/js/main.a598f50e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18eaf48.css",
+    "static/js/main.a598f50e.js"
+  ]
+}
